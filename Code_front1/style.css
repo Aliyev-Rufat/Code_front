@@ -1,0 +1,18 @@
+
+.header-container
+{
+    width: 100%;
+    background-image: url(home-bg.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-container-1 h1:hover{
+    color: #0085A1;
+}
+.main-container-1 h3:hover{
+    color: #0dcaf0;
+}
+
+
